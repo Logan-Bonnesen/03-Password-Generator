@@ -1,12 +1,12 @@
-# 02 Password Generator
+# 03 Password Generator
 
 ## **Description**
 
-This is the professional portfolio website for the programming student Logan Bonnesen. 
+This is a random password generator that takes input from the user and uses that input to create a random, unique password. 
 
-This project created my first functional professional portfolio. All the code was written by me. This project will be a work in progress as my portfolio of deployed applications grows and as my skillset develops. By the end of the bootcamp this portfolio should contain several deployed projects with more eye-catching styles applied.  
+Users are prompted to click the "Generate Password" button to begin. They are then asked how many characters they want to use. If they chose something outside the valid length range they are given an alert "Password Length Invalid". Next, they are asked if they want to include upper case letters, lower case letters, numbers, or special characters. Finally, based on the user's input for password criteria, the random password should be generated in the password box.   
 
-<img src="screenshot-Logan-Bonnesen's-Portfolio.png" alt="screenshot of professional portfolio" height="600px" width="400px"/>   
+<img src="Password-Generator-logan-bonnesen.github.io.png" alt="screenshot of password generator" height="200px" width="300px"/>   
 
 
-View Website: [Professional Portfolio](https://logan-bonnesen.github.io/02-Professional-Portfolio/)
+View Application: [Password Generator](https://logan-bonnesen.github.io/03-Password-Generator)
