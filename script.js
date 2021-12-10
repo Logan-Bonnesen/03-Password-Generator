@@ -66,10 +66,12 @@ if (userSymbol === true){
 }
 
 
-// for ( i = 0; i < passwordLength; i++) {
-//   passwordcharset = Math.floor(Math.random() * .length)
-// }
+for ( i = 0; i < passwordLength; i++) {
+  passwordCharset = Math.floor(Math.random() * answer.length)
+  return answer.join
+}
 
+//
 
 }
 function writePassword() {
